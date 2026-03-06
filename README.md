@@ -89,6 +89,7 @@ Visualizations included:
 
 ## Dashboard
 
+![Dashboard](Dashboard%20Image/dashboard_overview.png)
 
 ## Key Insights
 
